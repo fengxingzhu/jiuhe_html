@@ -1,0 +1,31 @@
+@media screen and ( max-width:1350px ){
+.indexPart1 .list{padding:0 10px; margin-left:0px; margin-right:0px;}
+
+.indexPart3 .list{padding:0 40px; margin-left:0px; margin-right:0px;}
+}
+
+@media screen and ( max-width:1250px ){
+.indexFlash .slick-prev{left:15px; margin-left:0px;}
+.indexFlash .slick-next{right:15px; margin-right:0px;}
+
+.headDiv .logo{margin-left:-35px;}
+.navA{display:block; background:url(../image/navA.png) center no-repeat; background-size:50px; width:86px; height:86px; position:absolute; left:15px; top:20px;}
+.nav{position:fixed; z-index:50; left:0px; top:0px; width:100%; height:100%; background:rgba(0,0,0,0.9); display:none;}
+.nav.on{display:block;}
+.nav .close{display:block; background:url(../image/close.png) center no-repeat; background-size:50px; width:86px; height:86px; margin:0 auto; margin-top:20px; cursor:pointer;}
+.nav li{float:none; padding-top:0px; text-align:center;}
+.nav a{display:inline-block; height:60px; line-height:60px; padding:0 20px;}
+.nav .li_01{padding-right:0px;}
+
+.sideBar{width:60px;}
+.sideBar img{width:30px;}
+.sideBar a{height:62px; font-size:12px;}
+.sideBar a div{padding:10px 0 3px 0;}
+
+.indexPart1 .imgDiv{padding-top:45px;}
+
+.product .box.on{right:15px; margin-right:0px;}
+
+.case .imgDiv{padding-top:45px;}
+
+}

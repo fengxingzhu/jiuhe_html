@@ -1,0 +1,140 @@
+@media screen and ( max-width:1000px ){
+.headDiv .wal{height:60px;}
+.headDiv .logo{margin-left:-15px;}
+.headDiv .logo img{width:30px;}
+.topBtn{display:none;}
+.headDiv .tel{top:15px; right:auto; left:15px;}
+.headDiv .tel span{display:none;}
+.headDiv .tel b{display:none;}
+.headDiv .tel a{font-size:18px; display:inline-block; color:#359237;}
+.navA{background-size:25px; width:50px; height:60px; left:auto; right:5px; top:0px;}
+.nav .close{background-size:25px; height:60px; margin-top:20px;}
+.nav a{height:45px; line-height:45px;}
+
+.indexFlash .slick img{display:none;}
+.indexFlash .slick-arrow{opacity:0; filter:alpha(opacity=0);}
+.indexFlash .slick-dots{bottom:10px;}
+
+.pageTitle{font-size:18px; padding:30px 0 25px 0;}
+
+.indexPart1{padding-bottom:20px;}
+.indexPart1 .list{padding:0px;}
+.indexPart1 .slick{padding:0 10px; border-right:0px;}
+.indexPart1 .slick-current{border-right:0px;}
+.indexPart1 li{float:left; width:50%; text-align:center;}
+.indexPart1 .imgDiv{padding:30px 10px 0 7px;}
+.indexPart1 .imgDiv img{width:100%; border:#000 solid 2px; border-bottom:0px;}
+.indexPart1 .name{font-size:14px; padding:35px 0 0 0; background:url(../image/nimg22_1.png) center 20px no-repeat; background-size:12px;}
+.indexPart1 .li_01 .name{background:url(../image/nimg22_1_1.png) center 20px no-repeat; background-size:12px;}
+
+.indexPart1 .slick-prev, .indexPart3 .slick-prev{left:-10px; background-size:10px;}
+.indexPart1 .slick-next, .indexPart3 .slick-next{right:-10px; background-size:10px;}
+
+.indexPart2{padding-bottom:50px;}
+
+.indexPart3{padding-bottom:10px;}
+.indexPart3 .list{padding:0 10px;}
+.indexPart3 .name a{font-size:14px; height:42px; line-height:42px;}
+
+.indexPart4 li{width:100%; min-height:200px;}
+
+.indexPart5{padding-bottom:30px;}
+.indexPart5 li{padding:10px 0;}
+.indexPart5 .name{line-height:28px; font-size:14px; background:url(../image/img32.png) left top no-repeat; background-size:28px; padding-left:40px;}
+.indexPart5 p{padding:10px 10px 10px 40px;}
+.indexPart5 li.on .name{background:url(../image/img34.png) left top no-repeat; background-size:28px;}
+
+.indexPart6 .ico{background-size:45px; width:45px; height:61px;}
+.indexPart6 li{width:50%;}
+.indexPart6 li a{background-size:120px;}
+.indexPart6 li a div{height:130px;}
+.indexPart6 li img{top:55px; width:40px;}
+.indexPart6 li a:hover{background-size:120px;}
+
+.footImg a{display:block; height:90px;}
+.footImg img{display:none;}
+
+.footDiv .ewm{width:230px; margin:0 auto;}
+.footDiv .ewm li{padding:33px 0 0 0; width:50%;}
+.footDiv .box{position:relative; left:0px; top:0px; text-align:center;}
+.footDiv .btn a{width:90px; margin:0 auto;}
+.footDiv .info{position:relative; top:0px; right:0px; text-align:center; padding:20px 0;}
+
+.product{padding:20px 0;}
+.product .box{position:relative; top:0px; width:auto; padding-left:15px; background-size:2px; padding-bottom:20px;}
+.product .box.on{position:relative; right:0px;}
+.product .box.on .name{padding-top:0px;}
+.product .box-1.on{top:0px;}
+.product .btn a{font-size:18px; height:48px; line-height:48px;}
+.product .btn img{width:26px;}
+.product .content{border:0px; border-top:#e2e2e2 solid 1px; padding:20px 0 0 0;}
+
+.pageNavD, .pageNav{height:55px; margin-top:0px;}
+.pageNav.on{position:relative;}
+.pageNav li{padding-right:25px;}
+.pageNav a{height:55px; line-height:55px; font-size:16px; border-bottom:rgba(255,255,255,0) solid 2px;}
+.pageNav a:hover, .pageNav a.on{border-bottom:#2a942a solid 2px;}
+
+.case{padding-top:50px;}
+.case li{width:100%; padding-bottom:25px;}
+
+.case .imgDiv{padding:30px 10px 0 7px;}
+.case .imgDiv img{width:100%; border:#000 solid 2px; border-bottom:0px;}
+.case .name{font-size:14px; padding:35px 0 0 0; background:url(../image/nimg22_1.png) center 20px no-repeat; background-size:12px;}
+.case dd.dd_01 .name{background:url(../image/nimg22_1_1.png) center 20px no-repeat; background-size:12px;}
+
+.pageBanner{min-height:200px;}
+.pageBanner .imgDiv{display:none;}
+.pageBanner .name{font-size:22px;}
+
+.service_01{padding-top:50px;}
+.service_01 .h10{height:30px;}
+.service_01 .fl{width:100%; padding-right:0px;}
+.service_01 .fr{width:100%; padding-left:0px;}
+
+.service_02 .title{font-size:20px; padding:35px 0 25px 0;}
+.service_02 li em{position:relative; left:0px; text-align:left; line-height:42px;}
+.service_02 .btn{padding:20px 0 35px 0;}
+.service_02 .btn1{font-size:16px;}
+
+.service_03{padding:15px 0 55px 0;}
+.service_03 .title{padding:35px 0 25px 0;}
+.service_03 .imgDiv{padding:25px 15px; width:100%;
+box-sizing:border-box;
+-moz-box-sizing:border-box;
+-webkit-box-sizing:border-box;
+}
+.service_03 .content{padding:0 15px;}
+
+.contact{padding:30px 0;}
+.contact .fl{width:100%;}
+.contact .fl img{width:100%;}
+.contact .fr{min-height:198px; padding:25px; width:100%;}
+
+.news{padding:25px 0;}
+.news li{padding:15px;}
+.news .wal{padding:0px;}
+.news .imgDiv{position:relative; top:0px; padding-bottom:15px;}
+.news .imgDiv img{width:100%;}
+
+.newShow .title{font-size:18px; padding-top:35px;}
+.newShow .time{padding:10px 0 20px 0;}
+.newShow .content{padding-bottom:30px;}
+.newShow .content .imgDiv{padding-bottom:20px;}
+
+.pageNum{min-height:150px;}
+.pageNum .back{padding:20px 0 15px 0;}
+.pageNum .back a{position:relative; left:0; top:0px; font-size:16px; margin-left:0px;}
+.pageNum .fl, .pageNum .fr{max-width:100%; float:none; padding:0px;}
+
+.sideBar{position:absolute; top:60px; width:180px; height:60px;}
+.sideBar img{width:23px;}
+.sideBar a{height:56px;}
+.sideBar li{float:left; width:33.333%;}
+
+}
+@media screen and ( max-width:400px ){
+.indexPart4 li{padding-left:0px;}
+.indexPart4 .imgDiv{position:relative; padding-bottom:10px;}
+.indexPart4 .imgDiv img{width:100%;}
+}
